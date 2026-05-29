@@ -90,5 +90,6 @@ Database Name:
 ```sql
 Project
 users-table name
+---
 
 This repository contains project outcome screenshots and implementation results for academic and learning purposes.

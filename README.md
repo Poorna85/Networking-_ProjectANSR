@@ -91,6 +91,3 @@ Database Name:
 Project
 users-table name
 ---
-
-#Use
-This repository contains project outcome screenshots and implementation results for academic and learning purposes.
